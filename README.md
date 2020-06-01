@@ -5,7 +5,7 @@
 
 ### Este é o seu assistente musical!
 
-<p>Ele lista toda a discografia da sua banda ou artista favorito e faz uma análise musical das principais letras de músicas do seu ídolo! 
+<p>Ele lista as principais músicas da sua banda ou artista favorito e faz uma análise musical dos principais temas e notas musicas que seu ídolo canta e toca! 
 <p>Let´s sing!
 
 ____
