@@ -16,7 +16,9 @@ O Music Bot utiliza a API do Vagalume para buscar informações sobre bandas e m
 
 ### Instalação das bibliotecas python
 
-Para executar o Music Box na sua máquina, você precisará do anaconda 3 instalado. Acesse o site www.anaconda.org, faça download do anaconda e instale o programa na sua máquina. O anaconda já possui quase todas as bibliotecas que precisamos para executar o Music Bot, mas ainda temos que instalar alguns pacotes. 
+Para executar o Music Box na sua máquina, você precisará do anaconda 3 instalado. Este tutorial foi testado com **jupyter labs** (e não jupyter notebook), por gentileza, utilize o mesmo aplicativo para evitar problemas de configuração.
+
+Acesse o site www.anaconda.org, faça download do anaconda e instale o programa na sua máquina. O anaconda já possui quase todas as bibliotecas que precisamos para executar o Music Bot, mas ainda temos que instalar alguns pacotes. 
 
 <p>Já com o anaconda instalado no seu computador, acesse o terminal do seu conda environment e execute os seguintes comandos:
   
@@ -25,3 +27,16 @@ Para executar o Music Box na sua máquina, você precisará do anaconda 3 instal
 - conda install -c conda-forge wordcloud
 
 - jupyter labextension install @jupyter-widgets/jupyterlab-manager
+
+### Criando uma API Key no site do Vagalume
+Você precisa de uma API Key do Vagalume para conseguir buscar as letras de músicas do seu artista. Siga os seguintes passos para criar sua API Key.
+
+- Acesse o site https://auth.vagalume.com.br/
+- Clique no botão "Cadastre-se"
+- Clique no botão "Pessoa"
+- Escolha uma das opções de cadastro e insira seus dados
+- Na sequência, você receberá um email de confirmação para ativar sua API Key. Acesse sua caixa de e-mails e ative sua API Key
+
+### Inserindo sua API Key no notebook
+Ao abrir o notebook do Music Bot na sua máquina
+
