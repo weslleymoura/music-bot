@@ -16,7 +16,7 @@ O Music Bot utiliza a API do Vagalume para buscar informações sobre bandas e m
 
 ### Instalação das bibliotecas python
 
-Para executar o Music Box na sua máquina, você precisará do anaconda 3 instalado. Este tutorial foi testado com **jupyter labs** (e não jupyter notebook), por gentileza, utilize o mesmo aplicativo para evitar problemas de configuração.
+Para executar o Music Bot na sua máquina, você precisará do anaconda 3 instalado. Este tutorial foi testado com **jupyter labs** (e não jupyter notebook), por gentileza, utilize o mesmo aplicativo para evitar problemas de configuração.
 
 Acesse o site https://www.anaconda.com/, faça download do anaconda e instale o programa na sua máquina. O anaconda já possui quase todas as bibliotecas que precisamos para executar o Music Bot, mas ainda temos que instalar alguns pacotes. 
 
