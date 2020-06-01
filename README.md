@@ -35,8 +35,11 @@ Você precisa de uma API Key do Vagalume para conseguir buscar as letras de mús
 - Clique no botão "Cadastre-se"
 - Clique no botão "Pessoa"
 - Escolha uma das opções de cadastro e insira seus dados
-- Na sequência, você receberá um email de confirmação para ativar sua API Key. Acesse sua caixa de e-mails e ative sua API Key
+- Na sequência, acesse https://auth.vagalume.com.br/settings/api/ e clique em "Adicionar Credencial"
+- Defina um nome para sua aplicação e clique em "cadastrar"
+- Ainda na mesma tela, deve aparecer sua credecial (se não aparecer, atualize a página)
+- Copie a informação que aparece no campo "Credencial" (esta será sua API Key)
 
 ### Inserindo sua API Key no notebook
-Ao abrir o notebook do Music Bot na sua máquina utilizando o **jupyter labs**, identifique a seção com o título **Define uma API Key** e substitua o texto "cole_aqui_sua_api_key" pela sua API Key em questão.
+Acesse o jupyter çabs e abra o notebook do Music Bot. Identifique a seção com o título **Define uma API Key** e substitua o texto "cole_aqui_sua_api_key" pela sua API Key em questão. Isso é tudo! Após definir sua API Key, você será capaz de executar os códigos que estão no notebook.
 
